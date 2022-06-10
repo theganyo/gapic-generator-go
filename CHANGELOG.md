@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.31.0](https://github.com/googleapis/gapic-generator-go/compare/v0.30.0...v0.31.0) (2022-06-10)
+
+
+### Features
+
+* **genpapic:** support protobuf-go go_package mapping option ([#1029](https://github.com/googleapis/gapic-generator-go/issues/1029)) ([f40c830](https://github.com/googleapis/gapic-generator-go/commit/f40c8300f39be4584ff195f1cbc0488bebd563ae))
+
 ## [0.30.0](https://github.com/googleapis/gapic-generator-go/compare/v0.29.2...v0.30.0) (2022-06-01)
 
 
